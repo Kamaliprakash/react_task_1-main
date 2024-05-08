@@ -4,6 +4,7 @@ function card({ data }) {
   function handleButtonClick() {
    
     console.log("Button clicked!");
+    
   }
   return (
     <>
@@ -120,3 +121,4 @@ function card({ data }) {
 }
 
 export default card;
+
